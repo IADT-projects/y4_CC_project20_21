@@ -1,6 +1,9 @@
-# project_y4
-## Documentation
-Save all your working documents of the project cycle here.
-(Presentations,  word documents, excel sheets etc. )
+# project_y4 repo
 
-Note: You will still need to upload the final version mseparately via TurnItIn to Blackboard. 
+## Website
+The 'docs' folder contains a stub HTML file that you can use as a project blog. You can either use the included index.html file (rename it by removing the '_') or use the provided jekyll template which uses markdown to render html. 
+
+### Please see:
+
+* https://guides.github.com/features/pages/
+* https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github
