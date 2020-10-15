@@ -4,9 +4,7 @@
 The starter repository for the DL836 y4 project.
 Upload your documentation and the presentation to the docs folder.Please note:
 
-* NO files larger than 100 MB can be committed using Github
-* How to use Github with Unity: https://www.youtube.com/watch?v=qpXxcvS-g3g
-* Unity .gitignore: http://bit.ly/2uJ5arj
+
 
 
 ## Source Code
